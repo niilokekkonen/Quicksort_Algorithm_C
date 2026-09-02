@@ -37,7 +37,7 @@ void switch_num(int *x, int*y) {
 
 //Example
 // Array[5] = 0, 1, 2, 3, 4
-//first = 0, 19
+//first = 0, last = 19
 //pivot = array[] 
 void quicksort(int first, int last, int array[]) {
     int pivot, left, right, temp;
